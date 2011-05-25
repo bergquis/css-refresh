@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="http://skrot.net/m/css-refresh.oex" version="0.1">
+    <name>CSS Refresh</name>
+    <description>Refresh page CSS without reloading the markup when pressing F9.</description>
+    <author email="gismos@gmail.com">Jørgen Bergquist</author>
+    <license href="http://www.opensource.org/licenses/mit-license.php">Licensed under the MIT license</license>
+</widget>
